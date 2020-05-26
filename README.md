@@ -1,1 +1,3 @@
-# calculadorajs
+# Calculadora
+
+Calculadora básica en javascript.
